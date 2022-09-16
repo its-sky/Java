@@ -44,7 +44,7 @@
       <updated>1663054494041</updated>
       <workItem from="1663054495316" duration="667000" />
       <workItem from="1663059306214" duration="9874000" />
-      <workItem from="1663221937193" duration="6614000" />
+      <workItem from="1663221937193" duration="16766000" />
     </task>
     <servers />
   </component>
@@ -61,5 +61,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
